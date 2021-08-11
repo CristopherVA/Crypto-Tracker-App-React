@@ -1,3 +1,7 @@
+## CRYPTO TRACKER APP
+
+![Alt text](src/assets/screen.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
